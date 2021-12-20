@@ -1,0 +1,16 @@
+.wrapper{
+height: 300px;
+width: 100%;
+background-color: cornflowerblue;}
+
+#real {
+    border: 2px solid rebeccapurple;
+    background-color: rebeccapurple;
+    margin: 50px;
+    padding: 20px;
+}
+
+.wrapper{
+    font-size: x-large;
+    font-weight: bold;
+}
